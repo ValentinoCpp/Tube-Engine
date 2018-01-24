@@ -1,2 +1,2 @@
 # Tube-Engine
-C++ &amp; DirectX12 Game engine
+C++, SDL and OpenGL Game engine
