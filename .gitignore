@@ -26,6 +26,13 @@
 *.a
 *.lib
 
+# User spesific-files
+*.VC.opendb
+*.VC.db
+
+# Build results
+db.lock
+
 # Executables
 *.exe
 *.out
